@@ -37,7 +37,7 @@ Key steps in the project:
 - **Product Category-wise Sales** 🛍️  
 - **Discount Impact on Sales** 🔥  
 
-Open Google Colab and upload the dataset.
+Open Google Colab or Jupyter Notebook and upload the dataset.
 Run the Myntra_Data_Analysis.ipynb notebook.
 
 🌟 Acknowledgments
